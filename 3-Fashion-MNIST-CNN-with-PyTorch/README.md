@@ -65,43 +65,43 @@ for i in range(10):
 ```
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_0.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_0.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_1.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_1.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_2.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_2.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_3.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_3.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_4.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_4.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_5.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_5.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_6.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_6.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_7.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_7.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_8.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_8.png)
 
 
 
-![png](Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_9.png)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/3-Fashion-MNIST-CNN-with-PyTorch/Fashin%20MNIST%20CNN%20with%20PyTorch_files/Fashin%20MNIST%20CNN%20with%20PyTorch_8_9.png)
 
 
 ## Standard Convolutional Neural Network 
