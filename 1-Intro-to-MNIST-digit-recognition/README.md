@@ -81,14 +81,14 @@ print("label: {}".format(y[200]))
 
 
 
-![png](https://raw.githubusercontent.com/yijingxiao/Intro-to-MNIST-digit-recognition/master/MNIST-explore_9_1.png?token=Abb-3j6HbBdHcTPzCMnUI4fG2yVtYqijks5bISFowA%3D%3D)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/1-Intro-to-MNIST-digit-recognition/MNIST-explore_9_1.png)
 
 
     VISUALIZE AFTER NORMALIZATION
 
 
 
-![png](https://raw.githubusercontent.com/yijingxiao/Intro-to-MNIST-digit-recognition/master/MNIST-explore_9_3.png?token=Abb-3pp1tUS6SP0TgiVTFslBIh1-4vhXks5bISEUwA%3D%3D)
+![png](https://raw.githubusercontent.com/yijingxiao/MNIST-and-Fashion-MNIST/master/1-Intro-to-MNIST-digit-recognition/MNIST-explore_9_3.png)
 
 
     label: 0
